@@ -5,6 +5,9 @@
 ## Bingzheng Jin 66900523  
   
 ## Execution Instructions:  
+### RQ1  
+All of the RQ1 code is located in the RQ1 directory. To execute this code and obtain results, simply run the jupyter notebook 'RQ1.jpynb' (all cells) located in the RQ1 directory.  
+
 ### RQ2  
 All of the RQ2 code is located in the RQ2 directory. To execute this code and obtain results, simply run the jupyter notebook RQ2.jpynb (all cells) located in the RQ2 directory.  
   
